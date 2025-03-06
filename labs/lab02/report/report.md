@@ -100,7 +100,7 @@ header-includes:
 
 Устанавливаю программное обеспечение git и gh через терминал (рис. fig:001), (рис. @fig:002).
 
-![Установка программного обеспечения](/home/shakira/work/study/2024-2025/Операционные системы/os-intro/labs/lab02/report/image/1.png){#fig:001 width=70%}
+![Установка программного обеспечения](https://github.com/shakiragas/study_2024-2025_os-intro/blob/master/labs/lab02/report/image/1.png){#fig:001 width=70%}
 
 ![Установка программного обеспечения](/home/shakira/work/study/2024-2025/Операционные системы/os-intro/labs/lab02/report/image/2.png){#fig:002 width=70%}
 

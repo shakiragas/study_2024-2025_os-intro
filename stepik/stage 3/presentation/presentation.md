@@ -1,7 +1,7 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Внешний курс 'Введение в Linux'
+title: Внешний курс 'Введение в Linux, 3 этап'
 subtitle: Операционные системы
 author:
   - Гасанова Ш. Ч.
